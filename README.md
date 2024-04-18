@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khollah1
+- 👋 Hi, I’m @Kolawolelawal
 - 👀 I’m interested in everything data and evolution.
 - 🌱 I’m currently learning artificial intelligence 
 - 💞️ I’m looking to collaborate on Machine learning, arificial intelligence and anything within the data evolution space.
